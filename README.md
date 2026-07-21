@@ -2,7 +2,7 @@
 
 **Étudiant en informatique | DevOps & Automation**
 
-Je suis encore étudiant, et honnêtement, ma maîtrise des outils n'est pas encore parfaite. Alors je fais comme beaucoup : **j'utilise des agents CLI pour vibecoder** — et ça marche plutôt bien.
+Je suis encore étudiant, et honnêtement, ma maîtrise des outils n'est pas encore parfaite. Mais avec l'arrivée des LLM et des agents IA, **j'utilise des agents CLI pour vibecoder** — et ça change la donne.
 
 ---
 
@@ -36,4 +36,4 @@ Je suis encore étudiant, et honnêtement, ma maîtrise des outils n'est pas enc
 
 ---
 
-> *« Je sais pas tout, mais je cherche tout. »*
+> *« Les LLM changent la donne. Moins de code, plus d'idées. Je m'appuie sur ce qui marche pour construire ce qui manque. »*
